@@ -4,7 +4,7 @@
 - [Gereksinimler](#gereksinimler)
 - [Veri işlem süreci](#Veri-temizliği)
 - [Sonuçlar](#sonuçlar)
-- [Öneriler](#stratejik-çıkarımlar-ve-Öneriler)
+- [Stratejik Çıkarımlar ve Öneriler](#stratejik-çıkarımlar-ve-Öneriler)
 - [Kaggle Proje Linki](#kaggle-proje-linki)
 
 Bu projede kullanılan veri seti, çalışanların maaşları, iş unvanları ve faydaları hakkında bilgiler içeren "Salaries.csv" dosyasından alınmıştır.
