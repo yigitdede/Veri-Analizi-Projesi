@@ -3,7 +3,7 @@
 ## İçindekiler
 - [Gereksinimler](#gereksinimler)
 - [Model Yapısı](#model-yapısı)
-- [Eğitim Süreci](#eğitim-süreci)
+- [Eğitim Süreci](#Veri-temizliği)
 - [Sonuçlar](#sonuçlar)
 - [Karmaşıklık Matrisi](#karmaşıklık-matris)
 - [Kaggle Proje Linki](#kaggle-proje-linki)
