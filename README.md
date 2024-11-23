@@ -2,7 +2,8 @@
 
 ## İçindekiler
 - [Gereksinimler](#gereksinimler)
-- [Veri işlem süreci](#Veri-temizliği)
+- [Veri Temizliği](#Veri-temizliği)
+- [Keşifsel Veri Analizi](#keşifsel-veri-analizi)
 - [Sonuçlar](#sonuçlar)
 - [Stratejik Çıkarımlar ve Öneriler](#stratejik-çıkarımlar-ve-Öneriler)
 - [Kaggle Proje Linki](#kaggle-proje-linki)
