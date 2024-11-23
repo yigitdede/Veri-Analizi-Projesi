@@ -1,12 +1,11 @@
 ### Maaş Verisi Analizi Projesi
 # İçindekiler
-- [Veri Seti](#veri-seti)
-- [Gereksinimler](#gereksinimler)
-- [Model Yapısı](#model-yapısı)
-- [Eğitim Süreci](#eğitim-süreci)
-- [Sonuçlar](#sonuclar)
-- [Karmaşıklık Matrisi](#karmaşık-matris)
-- [Kaggle Proje Linki](#kaggle-proje-linki)
+- [Gereksinimler](##gereksinimler)
+- [Model Yapısı](##model-yapısı)
+- [Eğitim Süreci](##eğitim-süreci)
+- [Sonuçlar](##sonuclar)
+- [Karmaşıklık Matrisi](##karmaşık-matris)
+- [Kaggle Proje Linki](##kaggle-proje-linki)
 
 Bu projede kullanılan veri seti, çalışanların maaşları, iş unvanları ve faydaları hakkında bilgiler içeren "Salaries.csv" dosyasından alınmıştır.
 
