@@ -4,7 +4,7 @@
 - [Gereksinimler](#gereksinimler)
 - [Eğitim Süreci](#Veri-temizliği)
 - [Sonuçlar](#sonuçlar)
-- [Öneriler](#sonuç)
+- [Öneriler](#öneriler)
 - [Kaggle Proje Linki](#kaggle-proje-linki)
 
 Bu projede kullanılan veri seti, çalışanların maaşları, iş unvanları ve faydaları hakkında bilgiler içeren "Salaries.csv" dosyasından alınmıştır.
@@ -39,7 +39,7 @@ Eksik verilerin oranı hesaplanmış ve analiz edilmiştir.
 - Maaşların genel dağılımı ve en yüksek maaş alan iş unvanları belirlenmiştir.
 - Yıllara göre ortalama maaşlar incelenmiş ve bazı iş unvanlarının daha yüksek maaşlara sahip olduğu tespit edilmiştir.
 
-## Sonuç
+## Öneriler
 Bu analiz, şirket içerisindeki maaş ve iş unvanları hakkında değerli bilgiler sunmuştur.  
 Çalışan maaşlarının belirli iş unvanları ve yıllara göre nasıl değiştiğini görmek, hem çalışanlar hem de yöneticiler için faydalı olabilir.
 ## Kaggle Proje Linki
