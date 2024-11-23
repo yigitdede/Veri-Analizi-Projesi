@@ -2,7 +2,7 @@
 
 ## İçindekiler
 - [Gereksinimler](#gereksinimler)
-- [Eğitim Süreci](#Veri-temizliği)
+- [Veri işlem süreci](#Veri-temizliği)
 - [Sonuçlar](#sonuçlar)
 - [Öneriler](#öneriler)
 - [Kaggle Proje Linki](#kaggle-proje-linki)
