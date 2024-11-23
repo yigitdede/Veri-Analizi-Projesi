@@ -4,7 +4,7 @@
 - [Gereksinimler](#gereksinimler)
 - [Veri işlem süreci](#Veri-temizliği)
 - [Sonuçlar](#sonuçlar)
-- [Öneriler](#öneriler)
+- [Öneriler](#stratejik-çıkarımlar-ve-Öneriler)
 - [Kaggle Proje Linki](#kaggle-proje-linki)
 
 Bu projede kullanılan veri seti, çalışanların maaşları, iş unvanları ve faydaları hakkında bilgiler içeren "Salaries.csv" dosyasından alınmıştır.
@@ -39,8 +39,11 @@ Eksik verilerin oranı hesaplanmış ve analiz edilmiştir.
 - Maaşların genel dağılımı ve en yüksek maaş alan iş unvanları belirlenmiştir.
 - Yıllara göre ortalama maaşlar incelenmiş ve bazı iş unvanlarının daha yüksek maaşlara sahip olduğu tespit edilmiştir.
 
-## Öneriler
-Bu analiz, şirket içerisindeki maaş ve iş unvanları hakkında değerli bilgiler sunmuştur.  
-Çalışan maaşlarının belirli iş unvanları ve yıllara göre nasıl değiştiğini görmek, hem çalışanlar hem de yöneticiler için faydalı olabilir.
+## Stratejik Çıkarımlar ve Öneriler
+
+
+Bu Proje, şirket içerisindeki maaş ve iş unvanları hakkında değerli bilgiler sunmuştur. Maaş verilerini inceleyerek şirketin içindeki maaş yapıları, iş unvanları ve performans üzerine değerli bilgiler sunmaktadır. Bu tür veri analizi, özellikle insan kaynakları ve yönetim ekipleri için önemli karar destek araçları sağlar. Proje, çalışan maaşlarının nasıl iyileştirilebileceğini ve hangi pozisyonların daha yüksek maaşlar gerektirdiğini belirlemeye yardımcı olabilir. Bu bilgiler, ücretlendirme politikalarının yeniden yapılandırılmasında ve rekabetçi maaş stratejilerinin oluşturulmasında kullanılabilir.
+
+Yapay zeka ve makine öğrenimi modelleri, benzer veri setleriyle eğitilerek, maaş tahminleri yapmak için kullanılabilir. Bu tür modeller, gelecekteki maaş artışlarını tahmin edebilir ve şirketin bütçeleme süreçlerini optimize edebilir.
 ## Kaggle Proje Linki
-[Kaggle Proje Linki](https://www.kaggle.com/code/yigitdede/veri-analizi/edit/run/209160361)
+[Kaggle Proje Linki](https://www.kaggle.com/code/yigitdede/veri-analizi)
