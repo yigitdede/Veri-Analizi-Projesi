@@ -1,4 +1,4 @@
-Maaş Verisi Analizi Projesi
+### Maaş Verisi Analizi Projesi
 # İçindekiler
 - [Veri Seti](#veri-seti)
 - [Gereksinimler](#gereksinimler)
@@ -25,12 +25,19 @@ Veri setinin yapısı ve temel istatistiksel bilgileri incelenmiştir.
 Eksik verilerin oranı hesaplanmış ve analiz edilmiştir.
 ## Görselleştirmeler
 Maaş Dağılımı: Toplam maaşın dağılımı histograma dökülerek incelenmiştir.
+
 Yıllara Göre Ortalama Maaş: Yıllık maaşların ortalama değerleri çizgi grafiği ile gösterilmiştir.
+
 En Yüksek Maaş Alan İş Unvanları: En yüksek maaş alan 10 iş unvanı bar grafiği ile sunulmuştur.
+
 Kazanç Dağılımı (Boxplot): En yaygın 10 iş unvanı için maaş dağılımı boxplot ile görselleştirilmiştir.
+
 Mesai Ücretleri: Yıl bazında mesai ücretlerinin dağılımı boxplot ile gösterilmiştir.
+
 Maaş ve Mesai Ücretleri İlişkisi: Temel maaş ile mesai ücretleri arasındaki ilişkiyi inceleyen scatter plot oluşturulmuştur.
+
 Korelasyon Matrisi: Çeşitli maaş türleri arasındaki korelasyon matrisi görselleştirilmiştir.
+
 İş Unvanlarının Popülerliği: En popüler 10 iş pozisyonu pasta grafiği ile sunulmuştur.
 ## Sonuçlar
 Maaşların genel dağılımı ve en yüksek maaş alan iş unvanları belirlenmiştir.
