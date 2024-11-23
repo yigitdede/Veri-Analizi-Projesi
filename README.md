@@ -2,10 +2,9 @@
 
 ## İçindekiler
 - [Gereksinimler](#gereksinimler)
-- [Model Yapısı](#model-yapısı)
 - [Eğitim Süreci](#Veri-temizliği)
 - [Sonuçlar](#sonuçlar)
-- [Karmaşıklık Matrisi](#karmaşıklık-matris)
+- [Öneriler](#sonuç)
 - [Kaggle Proje Linki](#kaggle-proje-linki)
 
 Bu projede kullanılan veri seti, çalışanların maaşları, iş unvanları ve faydaları hakkında bilgiler içeren "Salaries.csv" dosyasından alınmıştır.
@@ -43,3 +42,5 @@ Eksik verilerin oranı hesaplanmış ve analiz edilmiştir.
 ## Sonuç
 Bu analiz, şirket içerisindeki maaş ve iş unvanları hakkında değerli bilgiler sunmuştur.  
 Çalışan maaşlarının belirli iş unvanları ve yıllara göre nasıl değiştiğini görmek, hem çalışanlar hem de yöneticiler için faydalı olabilir.
+## Kaggle Proje Linki
+[Kaggle Proje Linki](https://www.kaggle.com/code/yigitdede/veri-analizi/edit/run/209160361)
